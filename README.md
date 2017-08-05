@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Array](https://github.com/Boostorg/Array) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Array%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Array%3Abincrafters).
 
 ## For Users: Use this package
 
