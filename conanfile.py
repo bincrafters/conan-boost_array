@@ -8,6 +8,7 @@ base = python_requires("boost_base/1.69.0@bincrafters/stable")
 
 class BoostArrayConan(base.BoostBaseConan):
     name = "boost_array"
+    version = "1.69.0"
     url = "https://github.com/bincrafters/conan-boost_array"
     lib_short_names = ["array"]
     header_only_libs = ["array"]
